@@ -18,9 +18,6 @@
 #     else:
 #         print("grape is founded in fruit list.")
 # fruit_container()
-
-
-
 # 2. List Slicing and Manipulation:
 # Question 6: Create a new list called numbers containing the numbers from 1 to 10.
 # Question 7: Create a new list called even_numbers containing only the even numbers from the numbers list.
