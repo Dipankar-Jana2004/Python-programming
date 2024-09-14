@@ -51,10 +51,9 @@ def slicing_and_manipulation():
     numbers=number_containing()
     print("numbers:",numbers)
 
+
     even_num(numbers)
     reverse_list(numbers)
     square_numbers=squared_containing(numbers)
     number_reversed(square_numbers)
 slicing_and_manipulation()
-
-
